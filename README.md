@@ -1,11 +1,18 @@
-I'd like to have an easy to use resonance experiment for my physics class. The "Pohlsches Rad" (https://de.wikipedia.org/wiki/Pohlsches_Rad) was to expemsive for this purpose. So I made my own one, heavyly inspired by the original and **mostly 3d printed**.
+I would like to have an easy-to-use resonance experiment for my physics class. The Pohl’s wheel was too expensive for this purpose, so I built my own version, heavily inspired by the original and mostly 3D-printed.
 
-they have in common:
-  - rotation pendulum
-  - electric motor excitation source
+They have the following features in common:
 
-difference:
- - no eddy current break
- - plastic spring
- - ball bearings for friction reduction
- - damped from the beginning
+- a rotational pendulum
+
+- an electric motor as the excitation source
+
+
+Differences:
+
+- no eddy-current brake
+
+- a plastic spring
+
+- ball bearings to reduce friction
+
+- damping present from the beginning
